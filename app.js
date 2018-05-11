@@ -76,4 +76,4 @@ client.on('ready', () => {
   client.user.setPresence({ game: { name : '[/help]', type: 0}})
 })
 
-client.login(settings.token);
+client.login(process.env.BOT_TOKEN);
