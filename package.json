@@ -1,0 +1,17 @@
+{
+  "name": "panda",
+  "version": "1.1.5",
+  "description": "Bot Discord fait par Erohis pour le serveur Erazia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erohis",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.1",
+    "ms": "^2.1.1"
+  }
+}
